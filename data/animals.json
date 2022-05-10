@@ -144,6 +144,17 @@
         "hungry"
       ],
       "id": "14"
+    },
+    {
+      "name": "Monger",
+      "species": "Doggo",
+      "diet": "folivore",
+      "personalityTraits": [
+        "zany",
+        "anxious",
+        "loving"
+      ],
+      "id": "15"
     }
   ]
 }
